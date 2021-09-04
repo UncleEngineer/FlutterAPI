@@ -28,7 +28,7 @@
         "title":"PyPI คือ?",
         "subtitle":"แหล่งรวม package ของ Python",
         "image_url":"https://raw.githubusercontent.com/UncleEngineer/FlutterAPI/main/pypi.png",
-        "detail":"ภาษาไพทอน (Python programming language) หรือที่มักเรียกกันว่าไพทอน เป็นภาษาระดับสูงซึ่งสร้างโดยคีโด ฟัน โรสซึม โดยเริ่มในปีพ.ศ. 2533 การออกแบบของภาษาไพทอนมุ่งเน้นให้ผู้โปรแกรมสามารถอ่านชุดคำสั่งได้โดยง่ายผ่านการใช้งานอักขระเว้นว่าง (whitespaces) จำนวนมาก นอกจากนั้นการออกแบบภาษาไพทอนและการประยุกต์ใช้แนวคิดการเขียนโปรแกรมเชิงวัตถุในตัวภาษายังช่วยให้นักเขียนโปรแกรมสามารถเขียนโปรแกรมที่เป็นระเบียบ อ่านง่าย มีขนาดเล็ก และง่ายต่อการบำรุง[3]"
+        "detail":"The Python Package Index, abbreviated as PyPI (/ˌpaɪpiˈaɪ/) and also known as the Cheese Shop (a reference to the Monty Python's Flying Circus sketch \"Cheese Shop\"),[3][4] is the official third-party software repository for Python.[5] It is analogous to CPAN, the repository for Perl.[6] Some package managers, including pip, use PyPI as the default source for packages and their dependencies.[7][8] As of 1 September 2021, over 324,836 Python packages can be accessed through PyPI.[9]"
     }
 
 ]
